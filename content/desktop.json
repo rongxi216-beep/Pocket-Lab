@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "pack_id": "core",
+  "scene_id": "desktop",
+  "gravity": 650,
+  "max_balls": 48,
+  "max_fixtures": 28,
+  "max_springs": 48,
+  "max_speed": 1100,
+  "items": {
+    "ball": {"name": "小球", "radius": 17, "mass": 1, "bounce": 0.66, "friction": 0.38},
+    "ramp": {"name": "挡板", "length": 132, "thickness": 14, "friction": 0.48},
+    "magnet": {"name": "磁铁", "range": 155, "strength": 1550},
+    "fan": {"name": "风扇", "range": 240, "strength": 1250, "half_width": 65},
+    "spring": {"name": "弹簧", "stiffness": 34, "damping": 4.8, "max_force": 4500}
+  }
+}

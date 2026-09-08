@@ -1,0 +1,8 @@
+{
+  "checks": 8282,
+  "engine": "4.6-stable (official)",
+  "failures": [],
+  "max_speed": 430.404876708984,
+  "mobile_device_tested": false,
+  "stress_physics_steps": 1800
+}

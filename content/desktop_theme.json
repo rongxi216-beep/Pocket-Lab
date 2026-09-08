@@ -1,0 +1,6 @@
+{
+  "id": "desktop_cozy_lab",
+  "background": "res://assets/lab-room-v2.png",
+  "colors": {"paper": "f8f5e9", "ink": "3e645d", "muted": "7e968a", "mint": "81b6a2", "line": "cad7c4", "peach": "edba93", "blue": "a5cbd2"},
+  "materials": {"ball": "metal", "ramp": "wood", "magnet": "metal", "fan": "plastic", "floor": "wood"}
+}

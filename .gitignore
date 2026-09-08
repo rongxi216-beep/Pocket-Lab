@@ -1,0 +1,26 @@
+.godot/
+.tools/
+builds/*
+!builds/.gitkeep
+*.tmp
+*.keystore
+export_credentials.cfg
+
+# Local credentials, signing material and runtime user data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.mobileprovision
+*.provisionprofile
+*.bak
+/export_credentials.cfg
+/session.json
+/settings.json
+/previous.json
+/works.json
+/local/
